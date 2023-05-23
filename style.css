@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#videoDiv {
+  background: linear-gradient(-335deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+ 
+}
+.alink {
+    text-decoration: none;
+    color: #fff;
+}
+h1{
+    text-shadow: 2px 2px 17px #24151561;
+    font-size:50px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
