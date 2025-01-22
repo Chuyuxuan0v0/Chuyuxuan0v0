@@ -17,7 +17,7 @@
 
 ### 🏂About me
 
-- I'm tengyuan
+- I'm chuyuxuan
 - Tech Stack
   - [x] javascript / typescript /vuejs2 / vuejs3 / react / nodejs / nginx
 - Learning
@@ -27,15 +27,15 @@
 
 ### 🥊 Streak Stats
 
-<div><img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=tengyuanOasis" alt="GitHub Streak" /></div>
+<div><img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Chuyuxuan0v0" alt="GitHub Streak" /></div>
 
 ### 🏎️ Statistics
 
 <div>
-   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=tengyuanOasis" />
-   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengyuanOasis&layout=compact&langs_count=8" />
+   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Chuyuxuan0v0" />
+   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuyuxuan0v0&layout=compact&langs_count=8" />
 </div>
 
 ### 🧘 Activity Graph
 
-<div><img height="400px"width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tengyuanOasis&bg_color=ffffff&color=96228e&line=f40be4&point=403d3d&area=true&hide_border=true" alt="GitHub Streak" /></div>
+<div><img height="400px"width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chuyuxuan0v0&bg_color=ffffff&color=96228e&line=f40be4&point=403d3d&area=true&hide_border=true" alt="GitHub Streak" /></div>
