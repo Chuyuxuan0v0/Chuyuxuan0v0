@@ -1,0 +1,61 @@
+<svg fill="none" viewBox="0 0 900 132" width="900" height="132" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="tech stack">
+  <foreignObject width="900" height="132">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style><![CDATA[
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .panel {
+          width: 900px; height: 132px; border-radius: 12px; padding: 24px 28px;
+          background: #ffffff; border: 1px solid #e5e6eb;
+          box-shadow: 0 4px 16px rgba(31, 35, 41, 0.04);
+          font-family: "Times New Roman", Times, serif;
+        }
+        .label {
+          font-size: 13px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: #8f959e; margin-bottom: 16px;
+        }
+        .row { display: flex; flex-wrap: wrap; gap: 10px; }
+        .item {
+          padding: 10px 16px; border-radius: 6px;
+          font-size: 17px; color: #1f2329;
+          background: #f5f6f7; border: 1px solid #e5e6eb;
+          opacity: 0; animation: in 0.7s cubic-bezier(0.32, 0.72, 0, 1) forwards;
+        }
+        .item:nth-child(1) { animation-delay: 0.04s; }
+        .item:nth-child(2) { animation-delay: 0.1s; }
+        .item:nth-child(3) { animation-delay: 0.16s; }
+        .item:nth-child(4) { animation-delay: 0.22s; }
+        .item:nth-child(5) { animation-delay: 0.28s; }
+        .item:nth-child(6) { animation-delay: 0.34s; }
+        .item:nth-child(7) { animation-delay: 0.4s; }
+        .item:nth-child(8) { animation-delay: 0.46s; }
+        .item.primary {
+          color: #1456f0; background: #e8f3ff; border-color: #c2d7ff;
+        }
+        @keyframes in {
+          from { opacity: 0; transform: translate3d(0, 8px, 0); }
+          to { opacity: 1; transform: translate3d(0, 0, 0); }
+        }
+        @media (prefers-reduced-motion: reduce) { .item { animation: none; opacity: 1; } }
+        @media (prefers-color-scheme: dark) {
+          .panel { background: #1f2329; border-color: #373c43; box-shadow: none; }
+          .label { color: #8f959e; }
+          .item { color: #f5f6f7; background: #2b2f36; border-color: #373c43; }
+          .item.primary { color: #94bfff; background: rgba(51,112,255,0.16); border-color: rgba(51,112,255,0.35); }
+        }
+      ]]></style>
+      <div class="panel">
+        <div class="label">Stack</div>
+        <div class="row">
+          <span class="item primary">TypeScript</span>
+          <span class="item">JavaScript</span>
+          <span class="item primary">Vue</span>
+          <span class="item">React</span>
+          <span class="item primary">Node.js</span>
+          <span class="item">Express</span>
+          <span class="item">Nginx</span>
+          <span class="item">Socket.io</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

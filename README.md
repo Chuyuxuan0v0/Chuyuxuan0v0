@@ -1,41 +1,72 @@
-
-
-<body>
-    <div id="videoDiv">
-       <h1>CHUYUXUAN</h1>
-<h3>你好！我是chuyuxuan! 欢迎来到我的GitHub 主页！ </h3>
-<h4>hello! this is chuyuxuan ,welcome! </h4>
-    <p align="center"><a href="https://blog.chuyuxuan.top/"><img width="80%" alt="Hello, I'm chuyuxuan!" src="./Snipaste_2023-05-23_10-52-08.png" /></a></p>
-    </div>
-</body>
-</html>
-
-
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BA54F7&random=false&width=460&lines=%F0%9F%91%8BHi+!+I'm+chuyuxuan+%EF%BC%8Cnice+to+see+u+%EF%BC%81" alt="Typing SVG" />
-</p>
-
-### 🏂About me
-
-- I'm chuyuxuan
-- Tech Stack
-  - [x] javascript / typescript /vuejs2 / vuejs3 / react / nodejs / nginx
-- Learning
-  - [ ] express
-  - [ ] koa
-  - [ ] golang
-
-### 🥊 Streak Stats
-
-<div><img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Chuyuxuan0v0" alt="GitHub Streak" /></div>
-
-### 🏎️ Statistics
-
-<div>
-   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Chuyuxuan0v0" />
-   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuyuxuan0v0&layout=compact&langs_count=8" />
+<div align="center">
+  <img src="./assets/header.svg" width="900" alt="chuyuxuan — 灵渊羡鱼，不如退而结网" />
 </div>
 
-### 🧘 Activity Graph
+<br>
 
-<div><img height="400px"width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chuyuxuan0v0&bg_color=ffffff&color=96228e&line=f40be4&point=403d3d&area=true&hide_border=true" alt="GitHub Streak" /></div>
+<div align="center">
+
+基于 **Vue / React / TypeScript / Node.js** 做产品与工具。  
+最近在折腾 **AI Agent、MCP**，以及前后端一体的小系统。
+
+**[博客](https://blog.chuyuxuan.top)** · **[GitHub](https://github.com/Chuyuxuan0v0)**
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="700" alt="" />
+</div>
+
+<br>
+
+### Tech Stack
+
+<div align="center">
+  <img src="./assets/stack.svg" width="800" alt="Tech stack" />
+</div>
+
+<br>
+
+### Featured
+
+<div align="center">
+
+| 项目 | 简介 |
+| :--- | :--- |
+| **[webchat](https://github.com/Chuyuxuan0v0/webchat)** | 在线聊天 · Vue3 + TS + Express + Socket.io |
+| **[deepseek-mcp-image](https://github.com/Chuyuxuan0v0/deepseek-mcp-image)** | 给纯文本 LLM 用的识图 MCP（SenseNova） |
+| **[SyncInformation](https://github.com/Chuyuxuan0v0/SyncInformation)** | 多端同步网络剪贴板 · [demo](http://jt.chuyuxuan.top) |
+
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Chuyuxuan0v0/webchat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chuyuxuan0v0&repo=webchat&theme=transparent&hide_border=true&bg_color=FFFFFF&title_color=3370FF&text_color=1F2329&icon_color=3370FF" height="110" />
+  </a>
+  <a href="https://github.com/Chuyuxuan0v0/deepseek-mcp-image">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chuyuxuan0v0&repo=deepseek-mcp-image&theme=transparent&hide_border=true&bg_color=FFFFFF&title_color=3370FF&text_color=1F2329&icon_color=3370FF" height="110" />
+  </a>
+</p>
+
+<br>
+
+### Stats
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Chuyuxuan0v0&show_icons=true&theme=transparent&hide_border=true&bg_color=FFFFFF&title_color=3370FF&text_color=1F2329&icon_color=3370FF&ring_color=3370FF" />
+  <img height="155" src="https://streak-stats.demolab.com?user=Chuyuxuan0v0&theme=transparent&hide_border=true&background=FFFFFF&stroke=E5E6EB&ring=3370FF&fire=3370FF&currStreakLabel=3370FF" />
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+*临渊羡鱼，不如退而结网 — 少空想，多动手。*
+
+</div>
