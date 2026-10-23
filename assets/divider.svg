@@ -1,0 +1,25 @@
+<svg fill="none" viewBox="0 0 900 48" width="900" height="48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="section divider">
+  <foreignObject width="900" height="48">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style><![CDATA[
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .wrap {
+          width: 900px; height: 48px;
+          display: flex; align-items: center; justify-content: center; gap: 16px;
+          font-family: "STZhongsong", "华文中宋", "Times New Roman", Times, serif;
+        }
+        .line { height: 1px; width: 160px; background: #e5e6eb; }
+        .mark { font-size: 16px; letter-spacing: 0.28em; color: #3370ff; }
+        @media (prefers-color-scheme: dark) {
+          .line { background: #373c43; }
+          .mark { color: #94bfff; }
+        }
+      ]]></style>
+      <div class="wrap">
+        <div class="line"></div>
+        <div class="mark">结网</div>
+        <div class="line"></div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
