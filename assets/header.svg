@@ -65,10 +65,6 @@
           display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
           opacity: 0; animation: rise 0.9s cubic-bezier(0.32, 0.72, 0, 1) 0.52s forwards;
         }
-        .motto {
-          font-family: "STZhongsong", "华文中宋", "Times New Roman", Times, serif;
-          font-size: 22px; letter-spacing: 0.1em; color: #3370ff;
-        }
         .tags { display: flex; gap: 8px; flex-wrap: wrap; }
         .tag {
           font-family: "Times New Roman", Times, serif;
@@ -108,7 +104,6 @@
           <div class="handle">Chuyuxuan0v0</div>
           <p class="quote">灵渊羡鱼，不如退而结网。</p>
           <div class="foot">
-            <span class="motto">少空想，多动手</span>
             <div class="tags">
               <span class="tag">Vue</span>
               <span class="tag">TypeScript</span>
